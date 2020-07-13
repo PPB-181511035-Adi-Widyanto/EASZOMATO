@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EAS Zomato</string>
+    <string name="zomato_api"><![CDATA[https://developers.zomato.com/api/v2.1/search?lat=-6.914744&lon=107.609810&count=20]]></string>
+
+</resources>
