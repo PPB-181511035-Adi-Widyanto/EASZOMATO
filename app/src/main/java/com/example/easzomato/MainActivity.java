@@ -8,6 +8,7 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 
+
 import com.example.easzomato.adapters.RestaurantAdapter;
 import com.example.easzomato.model.Restaurant;
 import com.example.easzomato.R;
